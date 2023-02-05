@@ -3,3 +3,6 @@ Login
 log-out
 typing 
 Front end good looking
+
+Email Service
+Video Call Service
